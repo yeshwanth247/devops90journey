@@ -1,0 +1,5 @@
+"this is my first line in the file using echo command "
+"this is the second line "
+"this is the third line "
+"this is the forth line "
+ECHO is on.
